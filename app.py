@@ -242,7 +242,7 @@ if (selected == "Parkinsons Prediction"):
           parkinsons_diagnosis = "The person does not have Parkinson's disease"
         
     st.success(parkinsons_diagnosis)
-st.header('Created by :red[Raman Baliyan]')
+st.header('Created by Raman Baliyan')
 
 
 
